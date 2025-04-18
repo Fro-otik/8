@@ -1,3 +1,0 @@
-/Build/*
-  Content-Encoding: gzip
-  Content-Type: application/octet-stream
